@@ -1,1 +1,2 @@
 # MyRepositorySedmov
+Привет мир!
